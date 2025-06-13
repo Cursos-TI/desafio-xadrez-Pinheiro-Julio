@@ -55,6 +55,7 @@ int main() {
     //flag que controla o movimento do cavalo
     int movimento = 1; 
 
+    printf("Movimento do cavalo\n");
     while (movimento--){
         for(int i = 0; i < 2; i++){
 
